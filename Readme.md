@@ -110,13 +110,6 @@ CarAura is a comprehensive mobile application prototype designed to enhance vehi
 
 ---
 
-## **Demo Video**
-
-Watch the demo video showcasing the app prototype in action:  
-[Demo Video Link](#) _(Replace with your video link)_
-
----
-
 ## **Screenshots**
 
 | Screen      | Preview                                   |
