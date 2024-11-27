@@ -153,4 +153,5 @@ We welcome contributions to improve CarAura!
 ## **Contact**
 
 If you have any questions or feedback, feel free to reach out to us:  
+Email: [apabishekraj@gmail.com](mailto:apabishekraj@gmail.com)
 Email: [gukanranganathan@gmail.com](mailto:gukanranganathan@gmai)
